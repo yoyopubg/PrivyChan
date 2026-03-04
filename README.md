@@ -1,19 +1,31 @@
-# PrivyChan 🎀 
-**Your Personal Privacy Guardian for Windows**
+# PrivyChan 🎀 (｡◕‿◕｡)
+**Your soft and tiny privacy guardian for Windows**
 
-PrivyChan is a lightweight, professional tool designed to monitor your Microphone and Camera usage in real-time.
+PrivyChan is a lightweight tool designed to watch over your Microphone and Camera usage in real-time. It keeps you safe while staying cute! (ㅅ´ ˘ `)
 
-## ✨ Features
-- **Real-time Monitoring:** Visual alerts when your Mic or Camera is active.
-- **Floating Overlay:** Interactive UI that stays on top.
-- **Customizable:** Control opacity, position, and startup behavior via a dedicated Launcher.
-- **Privacy Focused:** Written in Python with zero data collection.
+---
 
-## 🚀 How to Run
-1. Install dependencies: `pip install PyQt6`
-2. Run the launcher: `python launcher.py`
+###  Features
+* **Live Alerts**  Monitoring your hardware every second.
+* **Floating Heart**  An interactive UI that floats on your screen.
+* **Customizable**  Change opacity and position to fit your mood.
+* **Lightweight**  Tiny size, zero data collection.
 
-## 🛠 Built With
-- Python 3.x
-- PyQt6 (GUI Framework)
-- PyInstaller (For building EXE)
+---
+
+###  How to use (´｡• ᵕ •｡`)
+1. Make sure you have Python installed.
+2. Install the needs: `pip install PyQt6`
+3. Run the magic: `python launcher.py`
+
+---
+
+###  Built with love (´ ε ` )♡
+* **Python 3.x** - The brain.
+* **PyQt6** - The pretty face.
+* **PyInstaller** - To make it a standalone app.
+
+---
+
+### 🎀 Credits
+Made with love and care for a safer digital world. (´｡• ᵕ •｡`) ♡
